@@ -5,4 +5,5 @@ h1 {
 .pozabety {
     margin: 0 auto;
     border: 10px solid blue;
+    z-index: 5;
 }
